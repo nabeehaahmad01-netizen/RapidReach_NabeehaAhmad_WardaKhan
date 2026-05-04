@@ -18,7 +18,7 @@ The project aims to improve public safety by providing quick access to essential
 ---
 
 ## Core Effort & AI Enhancement
-Our foundational work and significant development effort are centered in **RapidReach.py**. To push the boundaries of the project, we developed an enhanced version that utilizes AI to deliver a visually stunning, "all-out" experience with advanced animations and a modern tech stack.
+Our foundational work and significant development effort are centered in **RapidReach.py**. To push the boundaries of the project, we developed an enhanced version (IVO RapidReach.py) that utilizes AI to deliver a visually stunning, "all-out" experience with advanced animations and a modern tech stack.
 
 ---
 
