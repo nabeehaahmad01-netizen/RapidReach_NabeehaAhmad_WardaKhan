@@ -1,4 +1,4 @@
-# RapidReach_NabeehaAhmad_WardaKhan
+# RapidReach By Nabeeha Ahmad and Warda Khan
 **A Python-Based Emergency Assistance System**
 
 RapidReach is designed to provide immediate and structured guidance during critical situations[cite: 2]. It serves as a practical tool for the general public, helping to prevent panic and ensuring that correct steps are taken in emergency situations[cite: 2]. 
